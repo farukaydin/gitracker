@@ -43,3 +43,5 @@ group :development, :test do
   gem 'spring'
 end
 
+# Authentication and authorization with email & password.
+gem 'clearance', '1.9.0'
